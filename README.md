@@ -8,6 +8,7 @@
 - [Exponentially many local minima for single neurons](https://papers.nips.cc/paper/1028-exponentially-many-local-minima-for-single-neurons.pdf)
 - [On the Loss Landscpae of a Class of Deep Neural Networks with No Bad Local Valleys](https://arxiv.org/pdf/1809.10749.pdf)
 - [The landscape of non-convex losses for statistical learning problems](https://web.stanford.edu/~songmei/Presentation/Landscape.pdf)
+- [Local Minima in Training of Neural Networks](https://arxiv.org/pdf/1611.06310.pdf)
 
 ## Blogs:
 - [Visualizing Loss Functions for Neural Networks: where are all the local minima?](https://crude2refined.wordpress.com/2016/12/23/visualizing-loss-functions-for-neural-networks-where-are-all-the-local-minima/)
